@@ -203,4 +203,4 @@ This repository serves as the official landing page for eSpeak. The software is 
 **Get the most recent version of eSpeak today!**
 
 ---
-**Last updated:** 2026-11-09 07:31:31 UTC
+**Last updated:** 2026-11-10 01:50:13 UTC
